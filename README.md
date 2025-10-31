@@ -1,5 +1,15 @@
 # World Weather Analysis 🌦️
 
+# World Weather Analysis  
+Data-driven application that integrates live API data from OpenWeather to generate global weather insights.  
+**Tools:** Python, OpenWeather API, Pandas, Matplotlib, JSON  
+**Highlights:**  
+
+- Automated retrieval and parsing of weather data for 500+ cities  
+- Interactive visualization of temperature, humidity, and wind trends  
+- Clean, modular code for scalable data extraction and transformation  
+- Real-world simulation of API automation and dashboard generation  
+
 ## Overview 🌍
 The World Weather Analysis project is a data-driven application designed to analyze global weather patterns and generate insights. By utilizing real-time weather data, this project helps users make informed travel decisions based on weather conditions across various destinations worldwide.
 
