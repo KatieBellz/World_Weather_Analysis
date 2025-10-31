@@ -1,6 +1,5 @@
 # World Weather Analysis 🌦️
 
-# World Weather Analysis  
 Data-driven application that integrates live API data from OpenWeather to generate global weather insights.  
 **Tools:** Python, OpenWeather API, Pandas, Matplotlib, JSON  
 **Highlights:**  
